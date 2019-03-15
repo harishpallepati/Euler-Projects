@@ -1,15 +1,15 @@
 # Euler-Projects
 Solutions for questions on Euler Projects 
 
-#Question: Consider a row of n dice all showing 1.
-
+### Question: 
+Consider a row of n dice all showing 1.
 First turn every second die,(2,4,6,…), so that the number showing is increased by 1. Then turn every third die. The sixth die will now show a 3. 
 Then turn every fourth die and so on until every nth die (only the last die) is turned. If the die to be turned is showing a 6 then it is changed to show a 1.
 
 Let f(n) be the number of dice that are showing a 1 when the process finishes. You are given f(100)=2 and f(10^8)=69.
 Find f(10^36).
 
-# Mathematical Analysis: 
+### Mathematical Analysis: 
 This is very interesting problem, the underlying concepts behind this problem is number theory(esp factors and sequences).
 
 Let's look into the first 100 numbers to get a good idea of the problem.
