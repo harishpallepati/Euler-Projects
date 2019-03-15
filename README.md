@@ -1,5 +1,4 @@
 # Euler-Projects
-Solutions for questions on Euler Projects 
 
 ### Question: 
 Consider a row of n dice all showing 1.
