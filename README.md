@@ -44,3 +44,18 @@ So, subtracting once the multiples of 15 does the job!!
 
 _-> (3+6+9+12+........) + (5+10+15+20+.....) - (15+30+45.........)_
 #### 233168
+
+### Question 3: 
+2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
+What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
+
+### Mathematical Analysis:
+The smallest number divisible a set of numbers is also called as Least Common Multiple(LCM)
+
+_LCM could be calculated by listing factors of each number and including all the common factors once and the left over uique factors_
+
+Eg. LCM of 6 and 8 is 24
+factors of 6 -> **2**,3
+factors of 8 -> **2**,2,2
+LCM would be 2*2*2*3 = 24
+
