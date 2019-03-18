@@ -55,7 +55,10 @@ The smallest number divisible a set of numbers is also called as Least Common Mu
 _LCM could be calculated by listing factors of each number and including all the common factors once and the left over uique factors_
 
 Eg. LCM of 6 and 8 is 24
+
 factors of 6 -> **2**,3
+
 factors of 8 -> **2**,2,2
+
 LCM would be 2*2*2*3 = 24
 
