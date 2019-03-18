@@ -42,5 +42,5 @@ Multiples of 5 below 1000 are 5,10,15.............995
 If we sum all the multiples of both of them, we would include the multiples of 15 twice in our result.
 So, subtracting once the multiples of 15 does the job!!
 
-### -> (3+6+9+12+........) + (5+10+15+20+.....) - (15+30+45.........)
-### 233168
+_-> (3+6+9+12+........) + (5+10+15+20+.....) - (15+30+45.........)_
+#### 233168
