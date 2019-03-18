@@ -1,6 +1,6 @@
 # Euler-Projects
 
-### Question: 
+### Question 1: 
 Consider a row of n dice all showing 1.
 First turn every second die,(2,4,6,…), so that the number showing is increased by 1. Then turn every third die. The sixth die will now show a 3. 
 Then turn every fourth die and so on until every nth die (only the last die) is turned. If the die to be turned is showing a 6 then it is changed to show a 1.
@@ -30,3 +30,17 @@ Note 2: as we have seen above the number of factors should odd, so that means th
                                                                                                                    
 So, in f(100) we have a total of 11 squares i.e 1,4,9,16,25,36,49,64,81,100  
 Among them only 36 and 64 have 7 factors.(Note: Number on the first die is excluded in our counting)  
+
+### Question 2: 
+If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
+Find the sum of all the multiples of 3 or 5 below 1000.
+
+### Mathematical Analysis:
+Multiples of 3 below 1000 are 3,6,9,12,15...........996,999
+Multiples of 5 below 1000 are 5,10,15.............995
+
+If we sum all the multiples of both of them, we would include the multiples of 15 twice in our result.
+So, subtracting once the multiples of 15 does the job!!
+
+### -> (3+6+9+12+........) + (5+10+15+20+.....) - (15+30+45.........)
+### 233168
